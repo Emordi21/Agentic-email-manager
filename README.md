@@ -8,7 +8,7 @@ trashes them in bulk. Nothing is ever permanently deleted, and nothing happens w
 
 ## Run it
 
-You need Node.js 20 or newer.
+You need Node.js 20.19 or newer (or 22.12+).
 
 ```bash
 npm install
